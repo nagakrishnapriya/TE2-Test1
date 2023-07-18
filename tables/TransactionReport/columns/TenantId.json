@@ -1,0 +1,6 @@
+{
+  "name": "TenantId",
+  "dataType": "string",
+  "sourceColumn": "TenantId",
+  "lineageTag": "2c583b6f-1dd3-4285-97d5-2501f1954522"
+}

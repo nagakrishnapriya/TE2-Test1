@@ -1,0 +1,6 @@
+{
+  "name": "ProfileImageId",
+  "dataType": "int64",
+  "sourceColumn": "ProfileImageId",
+  "lineageTag": "5bd36ee3-11fc-4e1c-8559-29da11a811aa"
+}

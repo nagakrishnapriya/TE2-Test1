@@ -1,0 +1,6 @@
+{
+  "name": "CountryId",
+  "dataType": "string",
+  "sourceColumn": "CountryId",
+  "lineageTag": "1a6cd14e-f804-46f7-945c-27324898acd1"
+}

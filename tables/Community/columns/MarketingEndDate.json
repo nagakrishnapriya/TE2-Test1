@@ -1,0 +1,6 @@
+{
+  "name": "MarketingEndDate",
+  "dataType": "dateTime",
+  "sourceColumn": "MarketingEndDate",
+  "lineageTag": "c6a21d3b-6c8e-403b-ac00-4a174112f1dc"
+}

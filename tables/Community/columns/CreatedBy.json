@@ -1,0 +1,6 @@
+{
+  "name": "CreatedBy",
+  "dataType": "int64",
+  "sourceColumn": "CreatedBy",
+  "lineageTag": "7d61f747-b7b4-4194-a532-1e7d639ce609"
+}

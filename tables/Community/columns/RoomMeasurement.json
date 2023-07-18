@@ -1,0 +1,6 @@
+{
+  "name": "RoomMeasurement",
+  "dataType": "string",
+  "sourceColumn": "RoomMeasurement",
+  "lineageTag": "38b8f76e-4331-4172-9bef-441ab163ddb4"
+}

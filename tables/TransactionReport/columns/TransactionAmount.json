@@ -1,0 +1,6 @@
+{
+  "name": "TransactionAmount",
+  "dataType": "decimal",
+  "sourceColumn": "TransactionAmount",
+  "lineageTag": "fbdab203-a5d2-4761-924a-04ffe3caf12e"
+}

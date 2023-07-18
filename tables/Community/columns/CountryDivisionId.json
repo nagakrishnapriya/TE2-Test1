@@ -1,0 +1,6 @@
+{
+  "name": "CountryDivisionId",
+  "dataType": "string",
+  "sourceColumn": "CountryDivisionId",
+  "lineageTag": "e3475caa-088b-4f82-82c5-683e152b13fd"
+}

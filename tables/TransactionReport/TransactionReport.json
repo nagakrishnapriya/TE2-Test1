@@ -1,0 +1,10 @@
+{
+  "name": "TransactionReport",
+  "lineageTag": "5450f93e-9cc2-48bc-8355-02c3b66227b0",
+  "annotations": [
+    {
+      "name": "TabularEditor_Relationships",
+      "value": "[]"
+    }
+  ]
+}

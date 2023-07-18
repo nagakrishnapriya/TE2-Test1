@@ -1,0 +1,6 @@
+{
+  "name": "CommunityName",
+  "dataType": "string",
+  "sourceColumn": "CommunityName",
+  "lineageTag": "fbe35f87-3c91-457f-984b-59a82e3372ad"
+}

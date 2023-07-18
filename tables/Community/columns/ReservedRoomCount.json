@@ -1,0 +1,6 @@
+{
+  "name": "ReservedRoomCount",
+  "dataType": "int64",
+  "sourceColumn": "ReservedRoomCount",
+  "lineageTag": "2a45b74e-6f96-4d24-b218-3b8a453a0212"
+}

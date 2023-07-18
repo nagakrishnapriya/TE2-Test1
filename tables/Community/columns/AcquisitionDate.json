@@ -1,0 +1,6 @@
+{
+  "name": "AcquisitionDate",
+  "dataType": "dateTime",
+  "sourceColumn": "AcquisitionDate",
+  "lineageTag": "f11c5f2b-76f9-4eb8-b02c-285911592fd3"
+}

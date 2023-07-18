@@ -1,0 +1,6 @@
+{
+  "name": "MaximumOccupiedRoomRate",
+  "dataType": "decimal",
+  "sourceColumn": "MaximumOccupiedRoomRate",
+  "lineageTag": "36da5bcb-045d-4fde-af49-0286e69eb89c"
+}

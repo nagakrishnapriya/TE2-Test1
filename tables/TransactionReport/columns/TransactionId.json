@@ -1,0 +1,6 @@
+{
+  "name": "TransactionId",
+  "dataType": "string",
+  "sourceColumn": "TransactionId",
+  "lineageTag": "a16bdaae-e48a-4ab9-8f42-c0356970d4cf"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Email",
+  "dataType": "string",
+  "sourceColumn": "Email",
+  "lineageTag": "36c6528c-79e1-4721-a290-f9f8aea45728"
+}

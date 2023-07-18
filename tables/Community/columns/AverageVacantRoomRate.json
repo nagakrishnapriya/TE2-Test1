@@ -1,0 +1,6 @@
+{
+  "name": "AverageVacantRoomRate",
+  "dataType": "decimal",
+  "sourceColumn": "AverageVacantRoomRate",
+  "lineageTag": "26a55411-ac59-4356-9bf1-6f0c188e2786"
+}

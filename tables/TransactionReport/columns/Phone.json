@@ -1,0 +1,6 @@
+{
+  "name": "Phone",
+  "dataType": "string",
+  "sourceColumn": "Phone",
+  "lineageTag": "75c62b3f-061f-4dbd-b7b1-3a6525f5ff7d"
+}

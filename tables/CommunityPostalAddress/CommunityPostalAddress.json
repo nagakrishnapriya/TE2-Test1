@@ -1,0 +1,10 @@
+{
+  "name": "CommunityPostalAddress",
+  "lineageTag": "fa58609a-11a0-4c0d-9dba-d46674c324c7",
+  "annotations": [
+    {
+      "name": "TabularEditor_Relationships",
+      "value": "[]"
+    }
+  ]
+}

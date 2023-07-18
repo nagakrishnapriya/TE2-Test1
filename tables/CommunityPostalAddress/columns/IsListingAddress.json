@@ -1,0 +1,6 @@
+{
+  "name": "IsListingAddress",
+  "dataType": "boolean",
+  "sourceColumn": "IsListingAddress",
+  "lineageTag": "e2e0fc06-66ce-4db2-ac4a-4345b6eecd41"
+}

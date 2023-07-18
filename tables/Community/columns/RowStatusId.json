@@ -1,0 +1,6 @@
+{
+  "name": "RowStatusId",
+  "dataType": "int64",
+  "sourceColumn": "RowStatusId",
+  "lineageTag": "ad55a9cb-dec7-44fa-9ca5-2a725d11e59d"
+}

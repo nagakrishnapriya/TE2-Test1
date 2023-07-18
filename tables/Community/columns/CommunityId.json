@@ -1,0 +1,6 @@
+{
+  "name": "CommunityId",
+  "dataType": "int64",
+  "sourceColumn": "CommunityId",
+  "lineageTag": "da780347-46e7-4ebe-be97-23540b861faa"
+}

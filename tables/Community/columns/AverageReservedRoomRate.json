@@ -1,0 +1,6 @@
+{
+  "name": "AverageReservedRoomRate",
+  "dataType": "decimal",
+  "sourceColumn": "AverageReservedRoomRate",
+  "lineageTag": "8c869bf8-ef4e-4a27-8993-b4efb0947930"
+}

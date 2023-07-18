@@ -1,0 +1,6 @@
+{
+  "name": "HasEmarEnabled",
+  "dataType": "boolean",
+  "sourceColumn": "HasEmarEnabled",
+  "lineageTag": "3a0060e6-6254-488a-a811-1774bc48e39f"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "RoomTypeCount",
+  "dataType": "int64",
+  "sourceColumn": "RoomTypeCount",
+  "lineageTag": "e3d5bfee-9639-4b2c-9ee6-9f618ef117df"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "PostalAddressId",
+  "dataType": "int64",
+  "sourceColumn": "PostalAddressId",
+  "lineageTag": "4baaff03-bcad-4955-9c14-b7ca8a8482b1"
+}

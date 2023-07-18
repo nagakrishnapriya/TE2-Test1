@@ -1,0 +1,6 @@
+{
+  "name": "LegalName",
+  "dataType": "string",
+  "sourceColumn": "LegalName",
+  "lineageTag": "6eec0a78-875a-4973-a9f9-8a9feb373852"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "MinimumOccupiedRoomRate",
+  "dataType": "decimal",
+  "sourceColumn": "MinimumOccupiedRoomRate",
+  "lineageTag": "06bdc9b8-d17a-4293-b0bb-590cde2fd5f3"
+}

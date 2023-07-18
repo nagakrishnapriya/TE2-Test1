@@ -1,0 +1,6 @@
+{
+  "name": "ParentId",
+  "dataType": "string",
+  "sourceColumn": "ParentId",
+  "lineageTag": "de8b16ba-08c2-4eea-b475-21fad4f4136d"
+}

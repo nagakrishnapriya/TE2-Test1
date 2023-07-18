@@ -1,0 +1,6 @@
+{
+  "name": "MinimumRoomRate",
+  "dataType": "decimal",
+  "sourceColumn": "MinimumRoomRate",
+  "lineageTag": "1040af12-3630-4d5e-81e7-cd89063f168d"
+}

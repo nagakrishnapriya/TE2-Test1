@@ -1,0 +1,10 @@
+{
+  "name": "CommunityLocationMapping",
+  "lineageTag": "812d2a6d-5501-4e15-ac26-c752e7cd7cbd",
+  "annotations": [
+    {
+      "name": "TabularEditor_Relationships",
+      "value": "[]"
+    }
+  ]
+}

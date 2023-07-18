@@ -1,0 +1,6 @@
+{
+  "name": "CommunityLocationMappingId",
+  "dataType": "int64",
+  "sourceColumn": "CommunityLocationMappingId",
+  "lineageTag": "0fed37fd-542e-4b5f-8529-3af13de06e6a"
+}

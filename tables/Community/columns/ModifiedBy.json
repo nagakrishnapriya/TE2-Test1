@@ -1,0 +1,6 @@
+{
+  "name": "ModifiedBy",
+  "dataType": "int64",
+  "sourceColumn": "ModifiedBy",
+  "lineageTag": "480513d1-ae02-4c0f-9e0f-976a4b995383"
+}

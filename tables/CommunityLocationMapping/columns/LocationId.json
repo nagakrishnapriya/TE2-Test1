@@ -1,0 +1,6 @@
+{
+  "name": "LocationId",
+  "dataType": "int64",
+  "sourceColumn": "LocationId",
+  "lineageTag": "be66129a-f651-4e70-ab01-9ff319d98438"
+}

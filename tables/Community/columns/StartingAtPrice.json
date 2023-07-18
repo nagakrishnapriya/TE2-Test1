@@ -1,0 +1,6 @@
+{
+  "name": "StartingAtPrice",
+  "dataType": "decimal",
+  "sourceColumn": "StartingAtPrice",
+  "lineageTag": "7ef5816f-400c-44af-84e9-66749af8548f"
+}

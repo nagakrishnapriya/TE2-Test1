@@ -1,0 +1,6 @@
+{
+  "name": "TransactionDate",
+  "dataType": "dateTime",
+  "sourceColumn": "TransactionDate",
+  "lineageTag": "a44a0706-bf6c-43da-8670-43989b31a133"
+}

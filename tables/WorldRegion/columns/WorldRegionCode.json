@@ -1,0 +1,6 @@
+{
+  "name": "WorldRegionCode",
+  "dataType": "string",
+  "sourceColumn": "WorldRegionCode",
+  "lineageTag": "fb8f05ef-2120-4477-9f55-4728d8161791"
+}

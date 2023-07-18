@@ -1,0 +1,6 @@
+{
+  "name": "SecondaryCareTypeCount",
+  "dataType": "int64",
+  "sourceColumn": "SecondaryCareTypeCount",
+  "lineageTag": "635b7871-6f35-4b48-bbb6-5b1535a405a4"
+}

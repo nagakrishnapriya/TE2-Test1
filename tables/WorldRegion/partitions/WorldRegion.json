@@ -1,0 +1,15 @@
+{
+  "name": "WorldRegion",
+  "mode": "import",
+  "source": {
+    "type": "m",
+    "expression": [
+      "let",
+      "    Source = Sql.Databases(\"sql-gs-dev.database.windows.net\"),",
+      "    Database = Source{[Name=\"Tenant_Glennis_Dev_Development_2023-05-17T15-00Z\"]}[Data],",
+      "    Data = Database{[Schema=\"Hub\",Item=\"WorldRegion\"]}[Data]",
+      "in",
+      "    Data"
+    ]
+  }
+}

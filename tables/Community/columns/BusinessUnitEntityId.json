@@ -1,0 +1,6 @@
+{
+  "name": "BusinessUnitEntityId",
+  "dataType": "int64",
+  "sourceColumn": "BusinessUnitEntityId",
+  "lineageTag": "60b5acf4-52f5-4a13-8513-945d2f6507ca"
+}

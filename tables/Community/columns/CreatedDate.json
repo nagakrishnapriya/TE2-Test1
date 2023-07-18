@@ -1,0 +1,6 @@
+{
+  "name": "CreatedDate",
+  "dataType": "dateTime",
+  "sourceColumn": "CreatedDate",
+  "lineageTag": "594c8d61-2bf2-4d06-b648-f930c19e6fe0"
+}

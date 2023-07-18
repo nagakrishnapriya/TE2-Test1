@@ -1,0 +1,6 @@
+{
+  "name": "ResidentName",
+  "dataType": "string",
+  "sourceColumn": "ResidentName",
+  "lineageTag": "42f0f421-d90e-4d19-8ee2-b36fc435b479"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "ModifiedDate",
+  "dataType": "dateTime",
+  "sourceColumn": "ModifiedDate",
+  "lineageTag": "e7982d95-59f9-4569-b997-f16115b82aa9"
+}

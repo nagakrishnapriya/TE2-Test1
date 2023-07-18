@@ -1,0 +1,6 @@
+{
+  "name": "TimeZone",
+  "dataType": "string",
+  "sourceColumn": "TimeZone",
+  "lineageTag": "492c882f-9f11-4043-9322-7f1f3d63934c"
+}

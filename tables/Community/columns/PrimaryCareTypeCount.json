@@ -1,0 +1,6 @@
+{
+  "name": "PrimaryCareTypeCount",
+  "dataType": "int64",
+  "sourceColumn": "PrimaryCareTypeCount",
+  "lineageTag": "b161f2e3-a625-43b9-aa80-b8d6baeabf1e"
+}

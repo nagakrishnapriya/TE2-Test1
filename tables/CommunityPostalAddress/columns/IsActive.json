@@ -1,0 +1,6 @@
+{
+  "name": "IsActive",
+  "dataType": "boolean",
+  "sourceColumn": "IsActive",
+  "lineageTag": "1ed2d501-93f7-4d05-84e0-c19a2a70a02f"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "TransactionReportId",
+  "dataType": "int64",
+  "sourceColumn": "TransactionReportId",
+  "lineageTag": "d345e014-4866-46fb-936c-077786a44061"
+}

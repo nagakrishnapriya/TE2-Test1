@@ -1,0 +1,6 @@
+{
+  "name": "VacantRoomCount",
+  "dataType": "int64",
+  "sourceColumn": "VacantRoomCount",
+  "lineageTag": "432da173-c6a8-4bf0-9abd-b7e051588de3"
+}

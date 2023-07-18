@@ -1,0 +1,6 @@
+{
+  "name": "TransactionStatus",
+  "dataType": "string",
+  "sourceColumn": "TransactionStatus",
+  "lineageTag": "8a917290-e272-4e73-9a73-3bae3bafd1e8"
+}
